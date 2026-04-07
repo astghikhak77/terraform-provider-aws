@@ -168,7 +168,7 @@ The `data_export` block supports the following:
 The `expanded_prefixes_data_export` block supports the following:
 
 * `s3_bucket_destination` (Optional) The bucket where the S3 Storage Lens expanded prefixes data export will be located. See [S3 Bucket Destination](#s3-bucket-destination) below for more details.
-* `storage_lens_table_destination` (Optional) The table where the S3 Storage Lens expanded prefixes data export will be located. See [Storage Lens Table Destination](#storage-lens-table-destination) below for more details.
+* `storage_lens_table_destination` (Optional) S3 table bucket where the S3 Storage Lens expanded prefixes data export will be located. See [Storage Lens Table Destination](#storage-lens-table-destination) below for more details.
 
 ### Cloud Watch Metrics
 
